@@ -168,7 +168,14 @@ management. The application demonstrates how modern data visualization and finan
 
 functional finance management system.
 
-
----
-
 **SpendSmart – Track Smart. Save More. Grow Better. 💰📊**
+
+<img width="1920" height="881" alt="Image" src="https://github.com/user-attachments/assets/e0e6559f-2efd-4ad3-b4e8-5bc23fc16fc4" />
+
+<img width="1918" height="881" alt="Image" src="https://github.com/user-attachments/assets/efb022c6-9dd3-43ab-9d8d-a6d0700160f4" />
+
+<img width="1920" height="884" alt="Image" src="https://github.com/user-attachments/assets/8143e154-ef40-4a4b-80f9-c5a4df9de32e" />
+
+<img width="1920" height="892" alt="Image" src="https://github.com/user-attachments/assets/9430ea6f-bee3-4692-ae4d-24ad81af9d3b" />
+
+<img width="1920" height="877" alt="Image" src="https://github.com/user-attachments/assets/1a8359f0-4da7-4151-84e8-7d5b0647abf8" />
